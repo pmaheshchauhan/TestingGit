@@ -14,7 +14,6 @@ import com.example.testinggit.ui.theme.TestingGitTheme
 
 class MainActivity : ComponentActivity() {
     val name: String = "This is a new line"
-    val surname: String = "This is a new linesfsdfdsfsdf dsf "
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
