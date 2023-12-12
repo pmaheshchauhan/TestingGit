@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TestingGit</string>
+    <string name="testing">This is rohit commit</string>
 </resources>
